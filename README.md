@@ -47,6 +47,7 @@ Bungkam SEMUA app berisik! Universal silencer for exam apps like for exam browse
 1. Install **Package Name Viewer** dari Play Store
 2. Cari app target
 3. Copy package name-nya
+4. Link aplikasi ini ada di bawah
 
 ## ⚠️ Catatan Penting
 
