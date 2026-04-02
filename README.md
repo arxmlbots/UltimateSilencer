@@ -56,7 +56,9 @@ Bungkam SEMUA app berisik! Universal silencer for exam apps like for exam browse
 
 ## 📱 Download
 
-[⬇️ Download APK Terbaru](https://github.com/arxmlbots/UltimateSilencer/releases)
+[👇 Link Aplikasi Package Name Viewer terbaru!](https://play.google.com/store/apps/details?id=com.csdroid.pkg)
+
+[⬇️ Download APK UltimateSilencer Terbaru](https://github.com/arxmlbots/UltimateSilencer/releases)
 
 ## 🤝 Kontribusi
 
