@@ -65,7 +65,10 @@ Bungkam SEMUA app berisik! Universal silencer for exam apps like for exam browse
 
 ## 🤝 Kontribusi
 
-Pull request welcome! Mau nambah fitur? Gas aja!
+Pull request welcome! Mau nambah fitur? beritahu Dev ke NGL!
+
+Jika error kabarkan via **my NGL!**
+_[📨 **Kirim report error / saran update ke sini!**](https://ngl.link/ardyzzzdev)_
 
 ## 📝 License
 
@@ -73,4 +76,4 @@ MIT License - Free to use, modify, and share!
 
 ---
 
-Made with ♥️ by [ardyzzzDEV] & L-01
+Made with ♥️ by **ardyzzzDEV** & **L-01**
