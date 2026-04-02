@@ -54,7 +54,7 @@ Bungkam SEMUA app berisik! Universal silencer for exam apps like for exam browse
 - Matikan toggle setelah selesai biar suara normal lagi
 - App ini **TIDAK butuh root**!
 
-## Preview UI utamanya nihh
+## 📷 Preview UI utamanya nihh
 
 ![Preview](Preview.jpg)
 ## 📱 Download
