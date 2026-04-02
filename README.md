@@ -56,7 +56,7 @@ Bungkam SEMUA app berisik! Universal silencer for exam apps like for exam browse
 
 ## Preview UI utamanya nihh
 
-[!Preview]()
+![Preview](Preview.jpg)
 ## 📱 Download
 
 [👇 Link Aplikasi Package Name Viewer terbaru!](https://play.google.com/store/apps/details?id=com.csdroid.pkg)
