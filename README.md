@@ -9,6 +9,10 @@ Bungkam SEMUA app berisik! Universal silencer for exam apps like for exam browse
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Android](https://img.shields.io/badge/Android-4.1%2B-green)](https://developer.android.com)
 
+[![Platform](https://img.shields.io/badge/platform-Android-brightgreen)](https://developer.android.com)
+[![API](https://img.shields.io/badge/API-16%2B-brightgreen)](https://developer.android.com)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](http://makeapullrequest.com)
+
 ## ✨ Fitur
 
 - 🎯 **Set & Forget** - Input package name SEKALI, ingat selamanya!
